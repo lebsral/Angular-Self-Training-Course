@@ -34,25 +34,24 @@ http://brackets.io/ (Be sure to get it with extract)
 6. Find your terminal.  (it is in the applications utilites folder)  Try out the following commands cd cd.. ls ls -la  touch mkdir
 http://guides.macrumors.com/Terminal
 
-Get some accounts
-7. Code repositories.
+
+7. Code repositories. Get some accounts
 Make free accounts on both github.com and bitbucket.com
 Due to their pricing stuctures github is better for open projects that you want the world to see.  and Bitbucket is better for small projects that you want to keep private.
 
 8.  Get sourcetree
 
-
 9. install these...
-http://bower.io/
-npm install -g bower
+- http://bower.io/
+	npm install -g bower
 
-http://yeoman.io/
-npm install -g yo
+- http://yeoman.io/
+	npm install -g yo
 
-http://gulpjs.com/
-npm install -g gulp
+-http://gulpjs.com/
+	npm install -g gulp
 
-Get the angular batarang for chrome  (and chrome itself if you don't already have it)
+- Get the angular batarang for chrome  (and chrome itself if you don't already have it)
 https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en
 
 
