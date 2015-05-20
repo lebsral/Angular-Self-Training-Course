@@ -56,7 +56,7 @@ https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjg
 
 
 
-Sprint 1. 
+Sprint 1
 ----------
 Ok Lets start the Angular learning.  Let's do the easy 
 http://campus.codeschool.com/courses/shaping-up-with-angular-js
@@ -64,13 +64,13 @@ We need to sign in with a free account.
 Watch the videos in order.  Do the exercises.  Don't get stuck ('buy' the answers if needed).  But don't dont copy and paste the answers.  Acutally retype them.  We need to get our fingers used to typing Angular.
 
 
-Sprint 1 Day 1.
+Sprint 1 Day 1
 ----------------
  Ramp up
 http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/1/section/1/video/1
 
 Egghead Video of the day
-https://egghead.io/lessons/angularjs-angular-with-webpack-introduction
+[angularjs-angular-with-webpack-introduction](https://egghead.io/lessons/angularjs-angular-with-webpack-introduction)
 (Dont see any advantage of this over just gulp and bower)
 
 
