@@ -18,9 +18,9 @@ https://thinkster.io/a-better-way-to-learn-angularjs/
 
 
 
---------------------------
+
 Setting up a computer as developement environment
---------------------------
+--------------------------------------------------
 
 1. Back up your mac.  Time machine is great, use it.
 2. Update your mac to the most recent version of the OS.
@@ -56,17 +56,17 @@ Get the angular batarang for chrome  (and chrome itself if you don't already hav
 https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en
 
 
-------------------
+
 Sprint 1. 
-------------------
+----------
 Ok Lets start the Angular learning.  Let's do the easy 
 http://campus.codeschool.com/courses/shaping-up-with-angular-js
 We need to sign in with a free account.
 Watch the videos in order.  Do the exercises.  Don't get stuck ('buy' the answers if needed).  But don't dont copy and paste the answers.  Acutally retype them.  We need to get our fingers used to typing Angular.
 
-----------
+
 Sprint 1 Day 1.
----------
+----------------
  Ramp up
 http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/1/section/1/video/1
 
@@ -74,7 +74,7 @@ Egghead Video of the day
 https://egghead.io/lessons/angularjs-angular-with-webpack-introduction
 (Dont see any advantage of this over just gulp and bower)
 
---------
+
 S1 Day2
 --------
 Filters and a new directive
@@ -82,7 +82,7 @@ http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/2/section/
 
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-introduction-to-angular-formly
-------
+
 S1 D3
 ------
 Forms and Models
@@ -90,7 +90,7 @@ http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/3
 
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-angular-automation-introduction-to-gulp
-------
+
 S1 D4
 ------
 Directives
@@ -99,7 +99,7 @@ http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/4
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-catching-errors-with-exceptionhandler
 
-------
+
 S1 D5
 ------
 Dependencies
@@ -108,7 +108,7 @@ http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/5
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-taking-control-of-your-templates-using-templatecache
 
-------
+
 S1 D6
 ------
 Lets review the basics of GIT
@@ -118,7 +118,7 @@ Egghead Video of the day
 https://egghead.io/lessons/angularjs-using-ngmodeloptions-to-update-on-blur
 
 
-------
+
 S1 D7
 ------
 Now let us review the basics of JavaScript
@@ -127,7 +127,7 @@ http://javascript-roadtrip.codeschool.com/levels/1
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-editing-breakpoints-in-chrome-devtools
 
-------
+
 S1 D8
 ------
 JavaScript Variables review
@@ -136,7 +136,7 @@ http://javascript-roadtrip.codeschool.com/levels/2
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-using-services-in-angular-directives
 
-------
+
 S1 D9
 ------
 Javascript review files 
@@ -146,7 +146,7 @@ Egghead Video of the day
 https://egghead.io/lessons/angularjs-hijacking-existing-html-attributes-with-angular-directives
 
 
-------
+
 S1 D10
 ------
 
@@ -157,7 +157,7 @@ https://egghead.io/lessons/angularjs-use-protractor-to-catch-errors-in-the-conso
 
 
 
----------------
+
 Sprint 2 Day 1
 ---------------
 
@@ -171,7 +171,7 @@ http://discover-devtools.codeschool.com/chapters/1
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-use-protractor-to-catch-errors-in-the-console
 
-------
+
 S2 D1
 ------
 
@@ -182,7 +182,7 @@ http://discover-devtools.codeschool.com/chapters/2
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-new-in-angular-1-3-ng-model-options-getters-and-setters
 
-------
+
 S2 D2
 ------
 
@@ -194,7 +194,7 @@ http://discover-devtools.codeschool.com/chapters/3
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-automated-screenshots-of-your-e2e-protractor-tests
 
-------
+
 S2 D3
 ------
 
@@ -205,7 +205,7 @@ http://discover-devtools.codeschool.com/chapters/4
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-using-ng-aria-to-automatically-improve-your-angularjs-accessibility
 
-------
+
 S2 D4
 ------
 
@@ -216,7 +216,7 @@ http://discover-devtools.codeschool.com/chapters/5
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-reusing-and-overriding-ng-messages
 
-------
+
 S2 D5
 ------
 
@@ -227,7 +227,7 @@ http://discover-devtools.codeschool.com/chapters/6
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-introduction-to-ng-messages-for-angularjs
 
-------
+
 S2 D6
 ------
 
@@ -238,7 +238,7 @@ http://discover-devtools.codeschool.com/chapters/7
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-angularjs-architecture-series-introduction
 
-------
+
 S2 D7
 ------
 
@@ -246,7 +246,7 @@ S2 D7
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-using-the-angularjs-scope-s-watchcollection-method
 
-------
+
 S2 D8
 ------
 
@@ -254,7 +254,7 @@ S2 D8
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-simple-lazy-loaded-angular-module-syntax-with-oclazyload
 
-------
+
 S2 D9
 ------
 
@@ -263,13 +263,16 @@ Egghead Video of the day
 https://egghead.io/lessons/angularjs-using-angularjs-interceptors-with-http
 
 
-------
+
 S2 D10
 ------
 
 
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-new-in-angular-1-3-scope-watchgroup
+
+
+
 
 
 
