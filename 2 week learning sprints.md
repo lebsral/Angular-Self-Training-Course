@@ -95,6 +95,18 @@ S1 D4
 Directives
 http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/4
 
+Intro to HTML and CSS  (very remidial)
+Lesson 1
+https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css/lessons/your-first-web-page
+
+Lesson 2: Finding a text editor
+https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css/lessons/finding-a-proper-code-editor
+Use
+Sublime text 3 and brackets
+
+
+
+
 Egghead Video of the day
 https://egghead.io/lessons/angularjs-catching-errors-with-exceptionhandler
 
@@ -292,4 +304,10 @@ AngularJS Tutorial: Part 1 - Setting up Your AngularJS Workspace
 https://www.youtube.com/watch?v=ofASsumsf7E
 
 
+
+https://webdesign.tutsplus.com/courses/bootstrap-3-for-web-design
+
+https://code.tutsplus.com/courses/hands-on-angular
+
+https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
 
