@@ -177,6 +177,8 @@ Elements
 
 http://discover-devtools.codeschool.com/chapters/1
 
+https://thinkster.io/learn-to-build-realtime-webapps/
+
 
 
 Egghead Video of the day
